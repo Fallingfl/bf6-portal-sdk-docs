@@ -1,3 +1,44 @@
+# Battlefield 6 Portal SDK Documentation
+
+Complete, community-created documentation for the Battlefield 2042 Portal SDK. Build custom game modes with TypeScript and Godot 4.4.1.
+
+🌐 **Repository:** https://github.com/Synthetic-Virus/bf6-portal-sdk-docs
+
+## 📚 What's Included
+
+### API Reference (18 Pages)
+Complete documentation for all **545+ SDK functions**:
+
+- **Player System** - Control, State, Spawning, Equipment (120+ functions)
+- **UI System** - Widgets, Notifications, Layouts (104+ functions)
+- **AI System** - Behaviors, Combat, Pathing (25+ functions)
+- **Game Systems** - Teams, Scoring, Vehicles, VFX & Audio (115+ functions)
+- **Spatial Objects** - Spawning, Transform, Gameplay Objects (80+ functions)
+- **Utilities** - Math, Vector operations, Helper library (modlib)
+
+### Example Game Modes (4 Complete Walkthroughs)
+
+1. **[Vertigo](docs/examples/vertigo.md)** - 4-team vertical climbing race (308 lines)
+2. **[AcePursuit](docs/examples/acepursuit.md)** - 8-player vehicle racing with lap tracking (~800 lines)
+3. **[BombSquad](docs/examples/bombsquad.md)** - 5v5 tactical bomb defusal with economy system (~800 lines)
+4. **[Exfil](docs/examples/exfil.md)** - 4-team extraction mode with AI enemies (~1000 lines)
+
+Each example includes:
+- Complete architecture breakdown
+- Working code snippets
+- Implementation checklists
+- Design pattern analysis
+- UI component descriptions
+
+### Guides
+- **Getting Started** - Complete SDK setup walkthrough
+- **Godot Editor** - Spatial editor usage
+- **TypeScript Scripting** - Game logic development
+- **Event Hooks** - 7 event system explained
+- **Workflow** - Development to deployment pipeline
+
+---
+
 # BF6 Portal SDK Documentation Website
 
 Modern, responsive documentation website for the Battlefield 6 Portal SDK built with VitePress.
